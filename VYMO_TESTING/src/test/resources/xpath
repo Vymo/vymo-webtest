@@ -1,0 +1,2 @@
+login //input[@placeholder='Enter user ID']
+next //span[text()='NEXT']
